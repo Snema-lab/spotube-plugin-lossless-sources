@@ -1,6 +1,6 @@
 {
   "_comment": "Maintained by .github/workflows/probe-sources.yml. `sources` holds only entries that served real audio at the last probe, in preference order, and the plugin reads it at startup. Add hosts to probe under `candidates`; never hand-edit `sources` or `status`.",
-  "updated": "2026-10-13T11:47:12Z",
+  "updated": "2026-10-13T19:17:50Z",
   "sources": [
     {
       "type": "monochrome",
@@ -134,7 +134,7 @@
       "playable": false
     },
     "hifi-api https://maus.qqdl.site": {
-      "search": "-1 URLError: <urlopen error [SSL: TLSV1_ALERT_INTERNAL_ERROR] t",
+      "search": "-1 URLError: <urlopen error _ssl.c:983: The handshake operation",
       "stream": null,
       "playable": false
     },
@@ -189,7 +189,7 @@
       "playable": false
     },
     "hifi-api https://tidal-api.binimum.org": {
-      "search": "-1 URLError: <urlopen error [Errno -2] Name or service not know",
+      "search": "-1 URLError: <urlopen error [Errno -5] No address associated wi",
       "stream": null,
       "playable": false
     },
