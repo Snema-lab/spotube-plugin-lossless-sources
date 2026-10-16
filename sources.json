@@ -18,6 +18,10 @@
     },
     {
       "type": "hifi-api",
+      "base": "https://MadeInHeaven.032416.xyz.com"
+    },
+    {
+      "type": "hifi-api",
       "base": "https://hifi-api-bffw.onrender.com"
     },
     {
