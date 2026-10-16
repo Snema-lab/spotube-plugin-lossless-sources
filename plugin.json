@@ -5,7 +5,7 @@
   "description": "Audio source for Spotube that needs no account and no configuration. Routes each track to whichever public source can play it: Monochrome and hifi-api instances for lossless FLAC, YouTube as the fallback so a track always plays.",
   "repository": "https://github.com/Snema-lab/spotube-plugin-lossless-sources",
   "apiVersion": "0.0.1",
-  "entrypoint": "index.js",
+  "entrypoint": "plugin.out",
   "capabilities": [],
   "abilities": [
     "audio"
