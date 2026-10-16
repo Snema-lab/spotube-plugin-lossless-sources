@@ -7,7 +7,7 @@
   "apiVersion": "2.0.0",
   "capabilities": [],
   "abilities": [
-    "audio-source"
+    "audioSource"
   ],
     "contact": "https://github.com/Snema-lab/spotube-plugin-lossless-sources",
     "bugs": "https://github.com/Snema-lab/spotube-plugin-lossless-sources/issues",
